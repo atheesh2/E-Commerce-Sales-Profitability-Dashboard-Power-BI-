@@ -1,17 +1,22 @@
-# E-Commerce Sales & Profitability Dashboard (Power BI)
+#Global Sales Performance & Operations Dashboard Solution (Power BI)
 
 A centralized corporate business intelligence dashboard built from scratch using the verbatim **Sample - Superstore.csv** dataset (9,994 transactional rows). This project delivers critical performance visibility, maps regional profitability, and empowers regional managers to make data-driven logistics and sales decisions.
 
 ---
 
 
-## 🚀 Key Features & Achievements
+🚀 Key Features & AchievementsCross-Functional BI Infrastructure: 
+Streamlined and modeled multiple relational enterprise data sheets (Assign.xlsx, People.xlsx, Returns.xlsx), consolidating isolated corporate metrics into a single source of truth for global sales and operations. 
 
-* **Centralized BI Infrastructure:** Extracted, cleaned, and modeled a ~10,000-row global retail dataset, establishing a verified single source of truth for executive reporting.
-* **Executive Performance Tracking:** Engineered high-impact KPI summary tiles capturing total business health metrics: **Total Revenue ($2.30M)** and **Total Profit ($286.40K)**.
-* **Temporal Trend Analysis:** Created interactive time-series visualizations to analyze monthly and quarterly sales cycles, directly identifying seasonal revenue spikes.
-* **Dynamic Parameter Slicing:** Integrated dynamic multi-select parameter filtering (Slicers) allowing regional managers to instantly isolate regional data, transitioning field decisions from intuition to hard insights.
-* **Calculated Intelligence:** Designed a suite of DAX measures tracking revenue splits, profit margins, and performance benchmarks for executive-level updates.
+Executive Performance Tracking: Engineered clean KPI matrix tiles tracking Total Sales ($2.94M) against a target baseline of $2.89M to monitor top-line corporate health. 
+
+Automated Risk Mitigation: Designed a conditional, dynamic Operational Alert Panel directly in the UI to surface critical business anomalies, instantly flagging localized target deficits (e.g., South Region missing targets by 12%), return surges, and shipping delays.
+
+Advanced Supply Chain Analytics: Programmed complex, optimized DAX equations to monitor key fulfillment risk factors, explicitly calculating Product Return Rate % by Category and Delivery Delay Rate % by Ship Mode.
+
+Granular Personnel & Regional Slicing: Integrated synchronized multi-select slicers mapping performance boundaries for specific regions and Account Managers (Emily Burns, Ross DeVincentis, and Damala Kotsonis) to eliminate reporting latency.  
+
+Geographic & Trend Distributions: Created interactive time-series charts (Sales LY) paired with territory-level horizontal visualizations to instantly map historical performance across high-volume states like England and Île-de-France.
 
 ---
 
