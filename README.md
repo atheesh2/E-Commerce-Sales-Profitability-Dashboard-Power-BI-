@@ -1,6 +1,6 @@
 #Global Sales Performance & Operations Dashboard Solution (Power BI)
 
-A centralized corporate business intelligence dashboard built from scratch using the verbatim **Sample - Superstore.csv** dataset (9,994 transactional rows). This project delivers critical performance visibility, maps regional profitability, and empowers regional managers to make data-driven logistics and sales decisions.
+A centralized corporate business intelligence dashboard built from scratch using the verbatim . This project delivers critical performance visibility, maps regional profitability, and empowers regional managers to make data-driven logistics and sales decisions.
 
 ---
 
